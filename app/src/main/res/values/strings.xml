@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalAplikasiGithubUser</string>
+    <string name="imageuser">Profil User</string>
+    <string name="repository">Repository</string>
+    <string name="clipsearch">clipsearch</string>
+    <string name="search_user">Search User</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
